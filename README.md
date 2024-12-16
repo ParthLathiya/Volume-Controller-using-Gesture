@@ -52,4 +52,4 @@ Make sure to have the following libraries installed before running the project:
 - Integrate additional functionalities like play/pause or next/previous using gestures.
 
 ## Author
-[Parth Lathiya]
+Parth Lathiya
